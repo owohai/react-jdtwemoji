@@ -1,6 +1,6 @@
 {
   "name": "react-jdtwemoji",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "A React wrapper for Twemoji",
   "keyword": [
     "emoji",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/owohai/react-jdtwemoji"
+    "url": "git+https://github.com/owohai/react-jdtwemoji.git"
   },
   "license": "MIT",
   "scripts": {
