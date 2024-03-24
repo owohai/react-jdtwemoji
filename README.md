@@ -1,4 +1,4 @@
-# react-twemoji
+# react-jdtwemoji
 A simple [React](https://facebook.github.io/react/) wrapper for [Twemoji](https://github.com/jdecked/twemoji). 
 
 All code orginally made by [manyoushen](https://www.npmjs.com/package/react-twemoji), but now updated to support community-driven fork of [Twemoji](https://github.com/jdecked/twemoji). 
