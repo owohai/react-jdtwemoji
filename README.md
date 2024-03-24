@@ -1,4 +1,4 @@
-# react-jdtwemoji
+# react-twemoji
 A simple [React](https://facebook.github.io/react/) wrapper for [Twemoji](https://github.com/jdecked/twemoji). 
 
 All code orginally made by [manyoushen](https://www.npmjs.com/package/react-twemoji), but now updated to support community-driven fork of [Twemoji](https://github.com/jdecked/twemoji). 
@@ -21,7 +21,7 @@ npm install react-twemoji
 Simply use it to wrap your emotional content. Set the `options` prop to pass options to `twemoji.parse`.
 
 ```jsx
-import Twemoji from 'react-twemoji';
+import Twemoji from 'react-jdtwemoji';
 
 <Twemoji options={{ className: 'twemoji' }}>
   <p>😂<span>😉</span></p>
@@ -50,6 +50,8 @@ It outputs the following HTML to DOM,
 | `tag`            | `string`      | `div`       | The tag of the wrapping element. This option is ignored when `noWrapper` is `true`. |
 
 ### Run example
+
+Building and Testing seems to be off. Test at your own will!
 
 ```sh
 yarn run example
